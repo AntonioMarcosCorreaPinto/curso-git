@@ -8,7 +8,8 @@ namespace TestProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Good Morning!");
-            Console.WriteLine("good Night!");
+            Console.WriteLine("Good Night!");
+            Console.WriteLine("Good Afternoon");
         }
     }
 }
