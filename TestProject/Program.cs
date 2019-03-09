@@ -7,9 +7,10 @@ namespace TestProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Good Morning!");
+      
             Console.WriteLine("Good Night!");
             Console.WriteLine("Good Afternoon");
+            Console.WriteLine("Have you a good day!");
         }
     }
 }
